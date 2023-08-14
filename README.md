@@ -1,8 +1,8 @@
 ## Salv Galera, Kell Aqui!!!
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=raquellssouza97&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquellssouza97&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=KellmeSouza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellmeSouza&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -27,12 +27,7 @@
     <a href = "https://www.linkedin.com/in/raquel-lima-s-de-souza-20b621229/">
    <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/t0bby97/">
-     <img width="25" src="instagram.png">
-    </a>
+
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
